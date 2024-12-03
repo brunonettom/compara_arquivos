@@ -1,6 +1,0 @@
-Arquivos únicos em nvme1n1p2:
-[  0B]  .ropeproject
-[2.4K]  compara_arquivos.py
-[1.8K]  comparar_arquivos.py
-[1.4K]  nvme1n1p2_unicos.py
-[1.4K]  sda2_unicos.py
